@@ -6,21 +6,25 @@ body {
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;  
+
 }
 p {
     font-style: italic;
     letter-spacing: 5px;
     transform: rotate(180deg);
     filter: blur(2px);
-}
+    filter: drop-shadow(50px 20px 5px black);}
 li {
     text-decoration-line: underline;
     text-decoration-style: dotted;
     text-align: left;
+    font-family: verdana;
+    border: 10px solid #57a300;
+
 
 }
 
 h1 {
     color:purple
-
+    
 }
